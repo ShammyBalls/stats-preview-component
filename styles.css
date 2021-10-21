@@ -1,5 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');    
+
+body {
+    background-color: hsl(233, 47%, 7%);
+    text-align: center;
+    font-family: 'Inter';
+}
 
 
-p {
-    color: red;
+.card   {
+    width: 90%;
+    background-color: hsl(244, 38%, 16%);
+    margin: auto;
+    margin-top: 1.1em;
+}
+
+.image img{
+    width: 100%;
 }
